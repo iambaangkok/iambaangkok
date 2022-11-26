@@ -22,7 +22,7 @@ I love creating. I want to create new knowledge and software for the world to us
 - I wanted to be a researcher in the field of AI/Machine Learning.
 - I love the academic side of computer science because it quences my thirst for knowledge.
 - I love the commercial side of software development because it's the real world application of the above knowledge. It's like seeing a child grow.
-- I'm currently **looking for an overseas research internship program.**
+- 📍  I'm currently **looking for an overseas research internship program.**
 
  
 ### Contact Me
