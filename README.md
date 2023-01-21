@@ -6,6 +6,7 @@ I love learning about new things, trying out all fields of software-related stuf
 I love creating. I want to create new knowledge and software for the world to use.
 
 ### What have I learned so far?
+- DevOps, CI/CD concepts: Jenkins, Docker
 - AI/Machine Learning: Deep Learning Theory, Deep Learning with Python, CNN, RNN, and more!
 - Game Development: Pygame, C++, GMS2, Unity
 - Frontend Web Development: React, HTML/CSS, JavaScript, TypeScript
@@ -13,6 +14,7 @@ I love creating. I want to create new knowledge and software for the world to us
 - Computer Engineering Basics: OOP, Data Structures & Algorithms, Database Systems, Networks, Microprocessors and Hardware Stuff
 
 ### Whan am I learning about right now?
+- DevOps, CI/CD concepts
 - Machine Vision
 - DevOps & CI/CD Workflow
 - Software Engineering Process
@@ -22,7 +24,7 @@ I love creating. I want to create new knowledge and software for the world to us
 - I wanted to be a researcher in the field of AI/Machine Learning.
 - I love the academic side of computer science because it quences my thirst for knowledge.
 - I love the commercial side of software development because it's the real world application of the above knowledge. It's like seeing a child grow.
-- 📍  I'm currently **looking for an overseas research internship program.**
+- 📍  I'm currently **looking for an overseas research internship program** and **a software engineer summer intern program.**
 
  
 ### Contact Me
