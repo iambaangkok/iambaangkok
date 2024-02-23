@@ -16,6 +16,7 @@ I love creating. I want to create new knowledge and software for the world to us
 ### Whan am I learning about right now?
 - Go Language
 - Kubernetes
+- Godot Game Engine
 
 ### What about my future plans?
 - I love software/game development because it's the real world application of my knowledge. To me, seeing a software/game runs up is like seeing a child grow. I love my code.
