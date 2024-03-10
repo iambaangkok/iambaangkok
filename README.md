@@ -8,9 +8,9 @@ I love creating. I want to create new knowledge and software for the world to us
 ### What have I learned so far?
 - Cloud, DevOps, CI/CD concepts: Jenkins, Docker, Kubernetes, Argo CD, AWS Cloud
 - AI/Machine Learning: Deep Learning Theory, Deep Learning with Python, CNN, RNN, and more!
-- Game Development: Pygame, C++, GMS2, Unity
+- Game Development: Pygame, C++, GMS2, Unity, Godot, GDScript
 - Frontend Web Development: React, HTML/CSS, JavaScript, TypeScript
-- Backend Web Development: Java, Spring, Laravel
+- Backend Web Development: Java, Spring, Laravel, Go
 - Computer Engineering Basics: OOP, Data Structures & Algorithms, Database Systems, Networks, Microprocessors and Hardware Stuff
 
 ### Whan am I learning about right now?
