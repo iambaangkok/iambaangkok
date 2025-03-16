@@ -14,8 +14,8 @@ I love creating. I want to create new knowledge, software, and cool stuff.
 - Computer Engineering Basics: OOP, Data Structures & Algorithms, Database Systems, Networks, Microprocessors and Hardware Stuff
 
 ### Whan am I learning about right now?
-- Godot Game Engine
 - GLSH Shaders
+- Godot Game Engine
 
 ### What about my future plans?
 - Pursuing a career in game development & software development!
@@ -32,7 +32,6 @@ I love creating. I want to create new knowledge, software, and cool stuff.
 - [LinkedIn](https://www.linkedin.com/in/iambaangkok/)
 - [Twitter](https://twitter.com/meisbk)
 - [Instagram](https://www.instagram.com/meisbk_/)
-- [Facebook](https://www.instagram.com/meisbk_/)
 # 
 
 
