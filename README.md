@@ -14,7 +14,7 @@ I love creating. I want to create new knowledge, software, and cool stuff.
 - Computer Engineering Basics: OOP, Data Structures & Algorithms, Database Systems, Networks, Microprocessors and Hardware Stuff
 
 ### Whan am I learning about right now?
-- GLSH Shaders
+- GLSL Shaders
 - Godot Game Engine
 
 ### What about my future plans?
